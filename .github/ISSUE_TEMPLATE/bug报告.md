@@ -2,7 +2,7 @@
 name: Bug报告
 about: 报告服务器相关Bug
 title: "[错误报告] "
-labels: bug
+labels: Bug
 assignees: ''
 
 ---
